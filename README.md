@@ -34,3 +34,6 @@ python C:/Users/X-Wing/Desktop/Felis/train.py C:/Users/X-Wing/Desktop/dta C:/Use
 Пример:
 python C:/Users/X-Wing/Desktop/Felis/generate.py C:/Users/X-Wing/Desktop/modl/yuki.data --prefix="ты не понимаешь" 20
 
+Файл с моделью называется 'yuki.data'. Модель обучена на 'Пикник на обочине' Стругацких и 'Зов Ктулху' Говарда Лавкрафта.
+
+В папке data находятся все файлы с текстами, использованными для обучения
